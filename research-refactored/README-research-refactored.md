@@ -192,3 +192,5 @@ kebijakan dan realisasi program pemerintah. Dalam periode pengamatan, diskusi pu
 (Tunjangan Hari Haraya) idulfitri yang belum didistribusikan secara menyeluruh. Secara umum percakapan publik mencerminkan
 tingginya perhatian masyarakat terhadap isu yang berdampak langsung pada kehidupan dan kebutuhan sehari-hari, sekaligus
 menunjukkan ekspektasi yang kuat terhadap kesejahteraan dan hak sebagai ASN terpenuhi.
+Anda dapat melihat dashboard hasil riset ini di streamlit melalui url berikut :
+https://thr-asn-pemkot-tasikmalaya-2026.streamlit.app/
