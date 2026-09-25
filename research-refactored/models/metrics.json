@@ -1,0 +1,44 @@
+{
+  "SVM": {
+    "accuracy": 0.9090909090909091,
+    "macro_f1": 0.8223007509307756,
+    "macro_precision": 0.8274358974358975,
+    "macro_recall": 0.8174248073576933
+  },
+  "KNN": {
+    "accuracy": 0.8721590909090909,
+    "macro_f1": 0.704912535628458,
+    "macro_precision": 0.7664576802507836,
+    "macro_recall": 0.674310216256525
+  },
+  "Naive Bayes": {
+    "accuracy": 0.8579545454545454,
+    "macro_f1": 0.5820271682340648,
+    "macro_precision": 0.7656862745098039,
+    "macro_recall": 0.5673626646781009
+  },
+  "Random Fores": {
+    "accuracy": 0.8835227272727273,
+    "macro_f1": 0.7257055972631379,
+    "macro_precision": 0.8049944729172948,
+    "macro_recall": 0.6886030325627641
+  },
+  "Decision Tree": {
+    "accuracy": 0.8664772727272727,
+    "macro_f1": 0.7283549250447433,
+    "macro_precision": 0.7429717474712243,
+    "macro_recall": 0.7164429530201342
+  },
+  "Neural Network": {
+    "accuracy": 0.9147727272727273,
+    "macro_f1": 0.819078947368421,
+    "macro_precision": 0.8589861751152074,
+    "macro_recall": 0.790454884414616
+  },
+  "Logistic Regression": {
+    "accuracy": 0.90625,
+    "macro_f1": 0.7647392405063291,
+    "macro_precision": 0.912599388379205,
+    "macro_recall": 0.7096072582649764
+  }
+}
