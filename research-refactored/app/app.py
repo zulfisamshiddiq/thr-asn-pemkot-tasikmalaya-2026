@@ -84,11 +84,12 @@ metrics = load_metrics()
 # Header
 # ============================================================
 
-st.title("Analisis Sentimen Publik — THR ASN Pemkot Tasikmalaya")
+st.title("Analisis Sentimen Publik — THR ASN Pemkot Tasikmalaya 2026")
 st.caption(
     "Analisis komentar publik dari Instagram, TikTok, dan Facebook terkait "
     "isu pencairan THR ASN. Dashboard ini hanya menampilkan visualisasi "
-    "agregat — tidak ada tabel data mentah atau identitas penulis komentar."
+    "agregat — tidak ada tabel data mentah atau identitas penulis komentar "
+    "untuk menjaga privasi data."
 )
 
 
@@ -198,7 +199,7 @@ with tabs[1]:
     plt.close(fig)
     st.caption(
         "Catatan: kelas netral sudah dikeluarkan dari data ini mengikuti "
-        "arahan pemilik perusahaan — lihat README repo untuk detail."
+        "arahan dari management pemilik perusahaan — lihat README repo untuk detail."
     )
 
 
